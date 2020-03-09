@@ -6,7 +6,7 @@ permalink: /
 
 # Tianyu Du's Homepage
 
-<img src="./assets/photo.png" alt="drawing" width="300"/>
+<img src="./assets/photo.png" alt="drawing" width="300" class="center"/>
 
 ## About Me
 
