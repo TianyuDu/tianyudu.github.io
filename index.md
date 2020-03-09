@@ -1,6 +1,7 @@
+---
 layout: page
 title: "Tianyu's Homepage"
 permalink: /
-
-# Tianyu Du
+---
+# Tianyu Du's Homepage
 
