@@ -12,5 +12,6 @@ My name is Tianyu Du, I am currently a senior undergraduate at University of Tor
 
 ## Quick Links
 
+* [CV](https://github.com/TianyuDu/resume/blob/master/tianyu_du_resume.pdf)
 * [lecture Notes at University of Toronto](/notes_toronto/)
 
