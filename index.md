@@ -6,3 +6,5 @@ permalink: /
 
 # Tianyu Du's Homepage
 
+[lecture Notes](/notes_toronto/)
+
