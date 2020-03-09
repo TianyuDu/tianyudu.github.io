@@ -6,7 +6,7 @@ permalink: /
 
 # Tianyu Du's Homepage
 
-<img src="./assets/photo.jpg" alt="Markdown Monster icon" style="float: left; margin-right: 10px;" />
+<img src="./assets/photo.png" alt="drawing" width="300"/>
 
 ## About Me
 
